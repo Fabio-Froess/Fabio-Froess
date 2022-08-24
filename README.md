@@ -2,8 +2,8 @@
 <h3 align="center">Sou completamente apaixonado por tecnologia</h3> 
 
 
-- 🔭 Atualmente não estou trabalhando 
-- 🌱 Atualmente estou aprendendo flutter e dart
+- 🔭 Atualmente estou estagiando na Prefeitura Municipal de Vitória da Conquista 
+- 🌱 Estou tambem estou aprendendo flutter e dart e front-end
 - 📫 Contate-me no email: fabio.froes15@gmail.com
 
 <div align="center">
@@ -15,6 +15,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
