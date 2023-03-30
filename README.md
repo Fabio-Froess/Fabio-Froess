@@ -3,7 +3,6 @@
 
 
 - 🔭 Atualmente estou estagiando na Prefeitura Municipal de Vitória da Conquista 
-- 🌱 Estou tambem estou aprendendo flutter e dart e front-end
 - 📫 Contate-me no email: fabio.froes15@gmail.com
 
 <div align="center">
