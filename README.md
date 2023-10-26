@@ -1,4 +1,4 @@
-<h1 align="center">Oiii!! Eu sou Fábio Froes 👋🏻</>
+<h1 align="center">Oiii!! Eu sou Fábio Fróes 👋🏻</>
 <h3 align="center">Sou completamente apaixonado por tecnologia</h3> 
 
 
@@ -6,7 +6,6 @@
 - 📫 Contate-me no email: fabio.froes15@gmail.com
 
 <div align="center">
-  <a href="https://github.com/Fabio-Froes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Froess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Froess&layout=compact&langs_count=7&theme=dark"/>
 </div>
