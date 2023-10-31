@@ -1,5 +1,13 @@
-<h1 align="center">Oiii!! Eu sou Fábio Fróes 👋🏻</>
-<h3 align="center">Sou completamente apaixonado por tecnologia</h3> 
+<h1 align="center">Oiii!! 👋🏻</>
+<h3 align="center">Me chamo Fábio Fróes </h3> 
+
+<p>Sou um profissional apaixonado pela área de tecnologia e desenvolvimento web, com uma carreira que se estende por vários anos. Minha jornada começou como um entusiasta da programação e, ao longo do tempo, adquiri experiência valiosa em diversas tecnologias-chave.
+<p> Durante toda a minha carreira, tenho tido o privilégio de trabalhar em projetos desafiadores e estimulantes, nos quais pude aprimorar e expandir meu conjunto de habilidades.
+ Minha paixão reside no universo da programação e da tecnologia. Isso me levou a mergulhar profundamente em várias tecnologias essenciais, incluindo JavaScript, Vue.js, TypeScript, Node.js, Nest.js, PostgreSQL e Prisma ORM. Tenho orgulho em 
+ aplicar esse conhecimento para desenvolver aplicativos web de alto desempenho e escaláveis, que proporcionam experiências incríveis aos usuários finais.</p>
+ Uma das minhas maiores satisfações é enfrentar desafios complexos e transformá-los em soluções práticas. Acredito firmemente que a tecnologia é uma ferramenta poderosa para resolver problemas do mundo real, e estou   constantemente buscando 
+ oportunidades que me permitam fazer exatamente isso.
+ Estou sempre ansioso para novas oportunidades que me desafiem a aplicar meu conjunto de habilidades em soluções criativas. </p>
 
 
 - 💻 Atualmente sou estagiário na Prefeitura Municipal de Vitória da Conquista 
